@@ -2,5 +2,13 @@ body{
     background:rgb(206, 8, 8);
     color:  rgb(72, 72, 145);
     margin: 0px;
+    font-family: "Rochester", cursive;
     margin-bottom: 100px
+}
+.chamada{
+    background-color: rgb(253, 227, 193);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
