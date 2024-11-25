@@ -1,3 +1,2 @@
 # glitter nails
-
-https://kanbara5.github.io/tv/
+https://kanbara5.github.io/cuidados/
